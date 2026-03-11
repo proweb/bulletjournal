@@ -18,6 +18,13 @@ Download the index.html and open it in your browser – done!
 
 I've created a virtual host called `http://bullet.journal` and run it from there. But that's just unnecessary nerd stuff.
 
+
+## Project structure
+
+- `index.html` – markup
+- `styles.css` – styling
+- `app.js` – behavior (current-day highlight + localStorage persistence)
+
 ## Customization
 
 The HTML and CSS is very simple. Feel free to mess around with it. Add another column. Remove columns. It's yours. You can also customize the colors with the CSS vars at the top of the style block.
